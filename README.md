@@ -1,3 +1,10 @@
+# about me
+	This is a tutorial I worked through on scrimba.
+
+## Make it your own
+
+	This is were I will post how I made this tutorial my own/what I added on to the project and what I learned.
+	
 # title(){
 		
 		return this.options.title || this.options.name;
